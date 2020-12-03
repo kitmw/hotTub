@@ -1,0 +1,5 @@
+https://electronics.stackexchange.com/questions/66036/switching-dimming-a-high-power-mains-heater
+
+Use SSR to switch at AC zero crossings. Thermal capacity of heater higher enough to switch off for entire mains cycles
+Will need triac? - no, don't need triac if load is resistive - current will be in phase with voltage
+http://www.bristolwatch.com/ele2/zero_crossing.htm
