@@ -3,3 +3,5 @@ https://electronics.stackexchange.com/questions/66036/switching-dimming-a-high-p
 Use SSR to switch at AC zero crossings. Thermal capacity of heater higher enough to switch off for entire mains cycles
 Will need triac? - no, don't need triac if load is resistive - current will be in phase with voltage
 http://www.bristolwatch.com/ele2/zero_crossing.htm
+http://www.bristolwatch.com/arduino/arduino1.htm
+http://www.crydom.com/en/tech/newsletters/solid%20statements%20-%20ssrs%20switching%20types.pdf
