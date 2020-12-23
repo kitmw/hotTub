@@ -43,3 +43,7 @@ void update_home_screen(double temp_actual,double temp_demand, String pump_state
   lcd.setCursor(0,2);
   lcd.print("Pump state: " + pump_state);
 }
+
+double temp_actual = get_hottub_temp(){
+}
+}
