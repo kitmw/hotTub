@@ -7,6 +7,6 @@ http://www.bristolwatch.com/arduino/arduino1.htm
 http://www.crydom.com/en/tech/newsletters/solid%20statements%20-%20ssrs%20switching%20types.pdf
 
 Low frequency PWM - arduino can only do down to 30Hz, need 10Hz if want 10 duty cycle options (0%, 10%, 20% etc)
-forum question: https://forum.arduino.cc/index.php?topic=140905.0
+forum question: https://forum.arduino.cc/index.php?topic=89224.0
 example code: http://www.gammon.com.au/forum/?id=11504&page=999
 library documentation: http://sphinx.mythic-beasts.com/~markt/ATmega-timers.html
